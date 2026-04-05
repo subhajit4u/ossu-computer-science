@@ -1,0 +1,2 @@
+[2026-04-02 12:14:21] ERROR in fetch_products: HTTPSConnectionPool(host='this-host-does-not-exist-xyz.com', port=443): Max retries exceeded
+[2026-04-02 12:14:22] ERROR in lookup_product: HTTPError - 404 Not Found
